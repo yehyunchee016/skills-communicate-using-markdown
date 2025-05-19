@@ -7,4 +7,19 @@
 ####### Will there be a Header 7?
 > ahahaha there is no Header 7 yo, kawan!
 
+# Adding An Image
 ![Image of Yaktocat with a special mask on](https://octodex.github.com/images/yaktocat.png)
+
+# Adding a code example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, beautiful World!";
+```
+
+``` powershell script
+var myVar2 = "Thank you for providing us with the abundance!"
+```
