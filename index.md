@@ -23,3 +23,10 @@ var myVar = "Hello, beautiful World!";
 ``` powershell script
 var myVar2 = "Thank you for providing us with the abundance!"
 ```
+
+# Make a task list
+> Now now it is about creating task list (checkboxes)
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
